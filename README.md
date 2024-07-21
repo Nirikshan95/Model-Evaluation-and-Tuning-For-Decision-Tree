@@ -16,7 +16,7 @@ You can install the required libraries using:
  pip install numpy pandas scikit-learn
 
 ## Usage
-Run the `model_evaluation_tuning.py` script to see the model evaluation and tuning process in action. Modify the hyperparameters in the script to experiment with different configurations.
+Run the `evaluation_tuning.ipynb` notebook to see the model evaluation and tuning process in action. Modify the hyperparameters in the script to experiment with different configurations.
 
 ## Results
 The results of the model evaluation and hyperparameter tuning are documented in the output section of the script. Analyze the performance metrics to understand the impact of different parameters.
